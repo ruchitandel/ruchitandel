@@ -1,5 +1,4 @@
-- 👋 Hello, I am Ruchi Tandel.
-- 👀 I’m interested in Programming & Graphics Designing. 
+- 👋 Hello, I am Ruchi Tandel. 
 - 🌱 I’m currently learning Java in Programming.
 
 <!---
